@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: ardani
- * Date: 8/4/17
- * Time: 10:02 AM
- */
 
 namespace App\GraphQL\Mutation;
 
